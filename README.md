@@ -3,7 +3,7 @@
 ## 💥I'm Kunal Patil!!!🫡🫡
 
 # 💫 About Me:
-🔭 I’m currently working on my personal website.<br>🏡 Currently living in Pune, Maharashtra.<br>🧑‍🎓 Currently: CS Student at SPPU University of I2IT at Pune.<br>🏁 Complete my internship at Wisdom Sprouts,Pune in Mern.<br>🌱 I’m currently learning JS, React.Js, Node.Js, Express.<br>💬 Ask me about HTML, CSS, Python not more.<br>😎 Wathcing anime in free time.<br>👨‍💻 All of my projects are available at https://github.com/Kunal453 <br> 😊I Love 🚗Driving and learn new things.
+🔭 I’m currently working on my personal website.<br>🏡 Currently living in Pune, Maharashtra.<br>🧑‍🎓 Currently: CS student at SPPU University of I2IT at Pune.<br>🏁 I've finished my internship at Wisdom Sprouts, Pune in Mern..<br>🌱 I’m currently learning JS, React.Js, Node.Js, Express.<br>💬 Ask me about HTML, CSS, Python not more.<br>😎 Watching anime in free time. <br> 😊I Love 🚗Driving and learn new things.
 
 
 ## 🌐 Socials:
@@ -27,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Kunal453&icon=3&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
