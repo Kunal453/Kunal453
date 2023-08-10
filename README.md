@@ -3,7 +3,7 @@
 ## 💥I'm Kunal Patil!!!🫡🫡
 
 # 💫 About Me:
-🔭 I’m currently working on my personal website.<br>🏡 Currently living in Pune, Maharashtra.<br>🧑‍🎓I am currently a 4th year Computer engineering Student at Internation Institue of Information Technology (I²IT).<br>🏁 I've finished my internship at Wisdom Sprouts, Pune in Mern..<br>🌱 I’m currently learning JS, React.Js, Node.Js, Express.<br>💬 Ask me about HTML, CSS, Python not more.<br>😎 Watching anime in free time. <br> 😊I Love 🚗Driving and learn new things.
+🏡 Currently living in Pune, Maharashtra.<br>🧑‍🎓I am currently a 4th year Computer engineering Student at Internation Institue of Information Technology (I²IT).<br>🏁 I've finished my internship at Wisdom Sprouts, Pune in Mern..<br>🌱 I’m currently learning JS, React.Js, Node.Js, Express.<br>💬 Ask me about HTML, CSS, Python not more.<br>😎 Watching anime in free time. <br> 😊I Love 🚗Driving and learn new things.
 
 
 ## 🌐 Socials:
